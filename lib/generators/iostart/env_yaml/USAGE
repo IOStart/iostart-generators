@@ -1,0 +1,8 @@
+Description:
+    Generates env yaml file
+
+Example:
+    rails generate iostart:env_yaml
+
+    This will create:
+        config/initialializers/env_yaml.rb

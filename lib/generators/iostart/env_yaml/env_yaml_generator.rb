@@ -1,6 +1,6 @@
 module Iostart
   module Generators
-    class EnvYamlGenerator < Rails::Generators::NamedBase
+    class EnvYamlGenerator < Rails::Generators::Base
       source_root File.expand_path('../templates', __FILE__)
 
       def copy_lib_file

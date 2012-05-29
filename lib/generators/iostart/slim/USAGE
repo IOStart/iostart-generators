@@ -1,0 +1,5 @@
+Description:
+    Add slim support
+
+Example:
+    rails generate iostart:slim
